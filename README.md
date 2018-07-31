@@ -1,2 +1,2 @@
 # aecSpaceExamples
-Examples using the aecSpace toolkit
+Examples using the aecSpace toolkit.
